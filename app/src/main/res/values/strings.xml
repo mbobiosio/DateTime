@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTime</string>
+    <string name="morning">Good Morning</string>
+    <string name="afternoon">Good Afternoon </string>
+    <string name="evening">Good Evening</string>
+    <string name="night">Good evening. Still Up?</string>
+</resources>
